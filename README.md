@@ -5,6 +5,5 @@ program generated as convenient tool to convert JPEG and PNG images to webP, to 
 download the repo:
 https://github.com/Vusumzi123/webP-converter.git
 
-##usage
-
+## Usage
 TODO
